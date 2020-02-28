@@ -2,8 +2,6 @@ body {
 	background-color: lightgrey;
 }
 
-
-
 h1{
 color: purple;
 font-size: 90px;
@@ -25,5 +23,3 @@ font-style: italic;}
 h2 span {
 text-decoration: line-through; 
 }	
-
-}
