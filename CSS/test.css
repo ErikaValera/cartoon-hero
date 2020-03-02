@@ -2,23 +2,25 @@ body {
 	background-color: lightgrey;
 }
 
-
-
 h1{
 color: purple;
 font-size: 90px;
 text-decoration: underline;
 }
+
 #first {
-font-size: 150px;
+font-size: 190px;
 }
+
 .small {
 font-size: 12px;
 }
+
 h2{
 	font-size: 22px;
 	color: blue;
 }
+
 span {
 font-style: italic;}
 
